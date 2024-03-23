@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cholthi
-- 👀 I’m interested in Go language for backend development
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Go and Python languages for backend development
+- 🌱 I’m currently learning Laravel and Flask
 - 💞️ I’m looking to collaborate on microservices architecture and Rest APIs
 - 📫 How to reach me chol@junubsms.com
 
